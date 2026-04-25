@@ -1,0 +1,9 @@
+pandas
+plotly
+fpdf
+openpyxl
+yfinance
+webbrowser
+pyautogui
+pyperclip
+time
